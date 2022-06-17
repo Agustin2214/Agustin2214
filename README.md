@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Agustin Ibañez</h1>
-<h3 align="center">A passionate backend developer from Argentina</h3>
+<h3 align="center">FullStack developer from Argentina</h3>
 
-<p align="left"> <a href="https://twitter.com/agustinibanez22" target="blank"><img src="https://img.shields.io/twitter/follow/agustinibanez22?logo=twitter&style=for-the-badge" alt="agustinibanez22" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
