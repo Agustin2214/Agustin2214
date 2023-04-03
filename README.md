@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Agustin Ibañez</h1>
 <h3 align="center">FullStack developer from Argentina</h3>
-
+<h4 align="center"> https://agustinibanez.vercel.app/</h4>
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/agustinibanez22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="agustinibanez22" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/agustinibz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/agustinibz/" height="30" width="40" /></a>
 <a href="https://agustinibanez.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://agustinibanez.vercel.app/" height="30" width="40" /></a>
 </p>
